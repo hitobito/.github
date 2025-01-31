@@ -34,4 +34,5 @@ hier folgt ein Mockup ...
 - [ ] Specs schreiben
 - [ ] Kunde wegen Übersetzungen informieren
 - [ ] Mit angemessener Rolle "durchklicken"
+- [ ] [DoD](https://github.com/hitobito/hitobito/blob/master/doc/developer/process/definition_of_done.md) geprüft und erfüllt?
 - [ ] CHANGELOG-Eintrag unter "unreleased" unten hinzufügen
