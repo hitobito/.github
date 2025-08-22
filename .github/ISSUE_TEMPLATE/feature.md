@@ -7,11 +7,24 @@ assignees: ''
 
 ---
 
-Als PERSON_DIE_DAMIT_ZU_TUN_HAT
-möchte ich EIN_FEATURE_HABEN,
-um EIN_ZIEL_ZU_ERREICHEN
+# Ausgangslag
+Wie ist das Verhalten heute?
+Was ist das Problem, dass mit diesem Feature gelöst werden soll?
+Was ist die User Story=
 
-Neu soll ...
+# Anforderungen
+Welches Ziel möchte ich erreichen?
+Wie soll dies zukünftig funktionieren?
+Was sind meine Wünsche und Hoffnungen?
+
+# Abgrenzungen
+Was soll/muss spezifisch nicht durch dieses Issue gelöst werden?
+Wo sind Abgrenzungen zu anderen, ähnlichen oder damit verbundenen Issues?
+Bekannte Probleme oder Abhängigkeiten welche man aufgrund der Komplexität nicht auch noch mit diesem Issue angehen will.
+
+# Offene fragen
+- Welche Offenen Fragen müssen noch geklärt werden bevor dieses Issue umgesetzt werden kann?
+- Unklarheiten wie/wo/wodurch das Ziel erreicht werden soll.
 
 # Mockup
 
