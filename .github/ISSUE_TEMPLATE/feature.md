@@ -10,7 +10,7 @@ assignees: ''
 # Ausgangslag
 Wie ist das Verhalten heute?
 Was ist das Problem, dass mit diesem Feature gelöst werden soll?
-Was ist die User Story=
+Was ist die User Story?
 
 # Anforderungen
 Welches Ziel möchte ich erreichen?
