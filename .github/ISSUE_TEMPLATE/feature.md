@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-# Ausgangslag
+# Ausgangslage
 Wie ist das Verhalten heute?
-Was ist das Problem, dass mit diesem Feature gelöst werden soll?
+Was ist das Problem, das mit diesem Feature gelöst werden soll?
 Was ist die User Story?
 
 # Anforderungen
@@ -22,8 +22,8 @@ Was soll/muss spezifisch nicht durch dieses Issue gelöst werden?
 Wo sind Abgrenzungen zu anderen, ähnlichen oder damit verbundenen Issues?
 Bekannte Probleme oder Abhängigkeiten welche man aufgrund der Komplexität nicht auch noch mit diesem Issue angehen will.
 
-# Offene fragen
-- Welche Offenen Fragen müssen noch geklärt werden bevor dieses Issue umgesetzt werden kann?
+# Offene Fragen
+- Welche offenen Fragen müssen noch geklärt werden bevor dieses Issue umgesetzt werden kann?
 - Unklarheiten wie/wo/wodurch das Ziel erreicht werden soll.
 
 # Mockup
