@@ -50,3 +50,4 @@ hier folgt ein Mockup ...
 - [ ] bei Core-Änderungen alle Wagons durchtesten
 - [ ] [DoD](https://github.com/hitobito/hitobito/blob/master/doc/developer/process/definition_of_done.md) geprüft und erfüllt?
 - [ ] CHANGELOG-Eintrag unter "unreleased" unten hinzufügen
+- [ ] bei Core-Features: https://hitobito.readthedocs.io anpassen
