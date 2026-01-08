@@ -32,6 +32,7 @@ hier folgt ein Mockup ...
 
 # Tech-Spec
 
+- Umsetzung im ... (Core, XYZ Wagon)
 - sinngebende Zielrichtung
 - besondere/bekannte Bedingungen und Grenzfälle
 - technische Einschränkungen
