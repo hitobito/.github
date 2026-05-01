@@ -45,6 +45,7 @@ hier folgt ein Mockup ...
 - [ ] Domainklasse erstellen oder anpassen
 - [ ] Model/View/Controller anpassen
 - [ ] Neues Feature mit FeatureGate deaktivierbar machen
+- [ ] Fixtures/Fabricators/Seeds anpassen
 - [ ] Specs schreiben
 - [ ] Kunde wegen Übersetzungen informieren
 - [ ] Mit angemessener Rolle "durchklicken"
